@@ -1,0 +1,2 @@
+<?php
+// operator precedence & associativity
