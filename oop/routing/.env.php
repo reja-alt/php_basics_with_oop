@@ -1,0 +1,4 @@
+DB_HOST = localhost
+DB_DATABASE = pos
+DB_USERNAME = root
+DB_PASSWORD = 
